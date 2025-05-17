@@ -4,4 +4,5 @@ project(In_pianto)
 set(CMAKE_CXX_STANDARD 26)
 
 add_executable(In_pianto main.cpp
-        Include/Impianto.h)
+        Include/Impianto.h
+        Source/impianto.cpp)
