@@ -5,4 +5,5 @@ set(CMAKE_CXX_STANDARD 26)
 
 add_executable(In_pianto main.cpp
         Include/Impianto.h
-        Source/impianto.cpp)
+        Source/impianto.cpp
+        Source/DayTime.cpp)
